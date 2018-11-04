@@ -1,0 +1,8 @@
+( ( valid ) )
+( ( invalid )
+( invalid }
+( {valid} ( ) )
+( "valid(" ) {}
+( "invalid \" )
+( "valid \" ) " { } )
+"invalid escape \n"
